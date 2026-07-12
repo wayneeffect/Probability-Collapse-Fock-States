@@ -1,0 +1,9 @@
+**Skill added successfully: `ads-holographic-math`**
+
+It's now persisted in your workspace at `/home/workdir/.grok/skills/ads-holographic-math/` and will be available for future sessions.
+
+### Quick Summary of the Skill
+- **Description/Triggers**: Uses holographic methods from **AdS/CFT** and higher-D bulk gravity to encode topology for simplifying linear algebra, geometry, and math problems in 4D and below. Activates on mentions of AdS, holography, bulk-boundary correspondence, higher-dimensional encoding, top-down perspective shifts, or 6D+ topology for linearizing lower-D math.
+- **Core Idea**: Treat the problem as boundary data in the AdS bulk. Solve via gravitational/topological tools in the higher-dimensional space, then decode the simpler projection back to your working dimensions.
+
+This integrates cleanly with your earlier "top-down encoded topology" framing. If you'd like any tweaks (e.g., add references, scripts for symbolic computation, or examples), more resources, or to test it on a specific problem, just say the word!
